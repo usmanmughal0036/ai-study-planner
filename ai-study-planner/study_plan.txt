@@ -1,0 +1,14 @@
+MY AI STUDY PLAN
+
+Student: Muhammad Usman
+Learning goal: Python for AI Automation
+Study days: 5
+Hours per day: 2
+Weekly total: 10 hours
+
+SUGGESTED ACTIVITIES
+1. Learn Python fundamentals
+2. Practice Python programming
+3. Explore AI automation tools
+4. Build a small AI-related project
+5. Review and update GitHub
